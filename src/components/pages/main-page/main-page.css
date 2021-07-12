@@ -1,0 +1,29 @@
+.title-main-page {
+  text-align: center;
+}
+
+.special-offer {
+  margin-left: 20%;
+  margin-top: 50px;
+  width: 500px;
+}
+
+.special-offer-title {
+  margin-left: 5%;
+}
+
+.special-offer-img {
+  display: block;
+  height: 500px;
+}
+
+.special-offer-description {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 10px;
+}
+
+.special-offer-name-cocktail {
+  font-size: 20px;
+  font-weight: 600;
+}

@@ -1,0 +1,30 @@
+.basket-box {
+  position: relative;
+  cursor: pointer;
+}
+
+.basket-icon {
+  width: 40px;
+  height: 40px;
+}
+
+.circle {
+  position: absolute;
+  background-color: #014776;
+  height: 20px;
+  width: 20px;
+  border-radius: 50%;
+  top: -3px;
+  right: -10px;
+  cursor: auto;
+}
+
+.count-cocktails {
+  padding-top: 2px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-size: 13px;
+  font-weight: 600;
+}

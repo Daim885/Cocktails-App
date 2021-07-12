@@ -1,0 +1,26 @@
+.button-remove-cocktail {
+  border: 1px solid black;
+  border-radius: 50%;
+  background: none;
+  cursor: pointer;
+}
+
+.list-content-basket {
+  margin: 5px;
+  padding-left: 22px;
+}
+
+.list-content-basket li {
+  position: relative;
+  width: 92%;
+  margin: 3px 0;
+}
+
+.button-remove-cocktail {
+  text-transform: uppercase;
+  border: none;
+  position: absolute;
+  right: -11px;
+  background-color: #014776;
+  color: #fff;
+}

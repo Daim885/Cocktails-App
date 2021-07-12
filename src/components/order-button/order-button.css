@@ -1,0 +1,12 @@
+.button-order-cocktail {
+  border: 1px solid#7ec0ad;
+  background-color: #90bdb0;
+  border-radius: 10px;
+  cursor: pointer;
+  color: #fff;
+  font-size: 15px;
+}
+
+.button-order-cocktail:hover {
+  background-color: #7ec0ad;
+}

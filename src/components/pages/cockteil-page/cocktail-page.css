@@ -1,0 +1,24 @@
+.cocktail-page-content {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.cocktail-page-name {
+  font-size: 24px;
+  font-weight: 600;
+}
+
+.cocktail-page-img {
+  display: block;
+  margin-top: 10px;
+  width: 500px;
+}
+
+.cocktail-page-content button {
+  margin-top: 10px;
+  padding: 5px 0;
+  width: 200px;
+  font-weight: 600;
+}
