@@ -1,9 +1,10 @@
 .input-search-cocktail {
-  width: 130px;
+  width: 60%;
   padding: 3px 5px;
   border: none;
   border-radius: 10px;
   text-transform: uppercase;
+  margin-bottom: 5px;
 }
 
 .button-search-cocktail {
@@ -14,10 +15,13 @@
   font-size: 13px;
   text-decoration: none;
   text-transform: uppercase;
+  color: #fff;
 }
+
 .name-button-search {
   color: #fff;
 }
+
 .button-search-cocktail:hover {
   background-color: #7ec0ad;
 }

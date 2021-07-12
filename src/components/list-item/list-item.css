@@ -1,6 +1,6 @@
 .link-list-item-cocktail {
   text-decoration: none;
-  width: 200px;
+  width: 100%;
   margin: 10px auto;
 }
 
@@ -10,6 +10,10 @@
   align-items: center;
   justify-content: center;
   text-align: center;
+}
+
+.img-list-item {
+  width: 90%;
 }
 
 .span-list-item {

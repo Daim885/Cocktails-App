@@ -1,6 +1,8 @@
 .basket-box {
   position: relative;
   cursor: pointer;
+  margin-left: auto;
+  margin-right: 10px;
 }
 
 .basket-icon {
